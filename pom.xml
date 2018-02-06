@@ -66,7 +66,7 @@
    
         
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.dreamoval.orsuite</groupId>
+    <groupId>st.malike.bots</groupId>
     <artifactId>spring-data-cloud-facebook-source</artifactId>
     <name>spring-data-cloud-facebook-source</name>
     <version>1.0-SNAPSHOT</version>
